@@ -40,6 +40,7 @@ public class Ex020 {
         for (String n: alunos) {
             System.out.println(n);
         }
+        scanner.close();
     }
 
 }
